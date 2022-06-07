@@ -1,5 +1,6 @@
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
+	  <h>New register page</h>
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div> 
   
