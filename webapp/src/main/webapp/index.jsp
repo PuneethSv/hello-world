@@ -12,6 +12,9 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
     <br>
+	<label for="email"><b>Email</b></label>
+    <input type="email" placeholder="Enter Email" name="email" required>
+    <br>
     <button type="submit">Login</button>
     <label>
       <input type="checkbox" checked="checked" name="remember"> Remember me
